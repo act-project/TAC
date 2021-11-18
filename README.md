@@ -22,7 +22,7 @@ Affiliate projects are ACT projects not under Linux Foundation governance or cha
 
 Incubating projects are incubating to become regular projects under the ACT umbrella and will be governed by Linux Foundation governance or charters. Current Incubating Projects include:
 
-* [Decoder Ring](https://github.com/DanBeard/DecoderRIng)
+* [K8s BOM Tool](https://github.com/kubernetes/release/blob/master/cmd/bom/README.md)
 
 
 # ACT Technical Advisory Committee (TAC)
