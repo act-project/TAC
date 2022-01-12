@@ -9,6 +9,7 @@ The following document outlines requirements for projects interested in joining 
 * Must be usable without a commercial component or without a downgraded user experience if not using proprietary software (i.e. proprietary database tie-ins).
 * Data source neutrality must be possible (i.e. tool must not be tied to one particular vendor and must be able to access other data sources).
 * Proprietary plugins are OK but must not be the only mode of operation.
+* Active development and participation.
 
 ## Criteria to become an Incubating Project
 * Support for SPDX.
@@ -22,6 +23,7 @@ The following document outlines requirements for projects interested in joining 
 * How to contribute to the project is documented.
 * Prior to being an incubation project, a presentation will be made to TAC members discussing the general usefulness of the tool and demonstrating how it works as well as any other relevant information (project roadmap, etc).
 * One ACT TAC project member must be willing to “sponsor” and act as a liason on behalf of the incubating project.
+* Active development and participation.
 * Note: Incubating projects do not receive an ACT TAC vote until they have graduated to a regular project status.
 
 ## Criteria to become an Affiliate Project
@@ -36,6 +38,7 @@ The following document outlines requirements for projects interested in joining 
 * TAC members may not sponsor a project for which they have a clear conflict of interest (for example, originating primarily from their organization). This doesn’t mean that they can’t have any involvement at all - for example, contributing pull requests, or being an end user of that project, can signal a healthy interest in and knowledge of a worthwhile project.
 * TAC vote to accept through a two-thirds vote of the TAC and raised by liaison.
 * Project has a code of conduct and has demonstrated it is a welcoming environment.
+* Active development and participation.
 
 ## Criteria to Graduate from Incubating to TAC Project/TAC voting member
 * Project has been in incubating stage at least 6 months
