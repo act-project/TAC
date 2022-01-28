@@ -9,7 +9,6 @@ Projects under the ACT umbrella are governed by Linux Foundation governance or c
 * [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort)
 * [SPDX Tools](https://github.com/spdx/tools)
 * [Tern](https://github.com/tern-tools/tern)
-* [QMSTR](https://qmstr.org/)
 
 ## ACT Affiliate Projects
 
